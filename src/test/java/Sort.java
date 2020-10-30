@@ -24,7 +24,7 @@ public class Sort {
     }
 
     public void setSort(WebElement element) {
-       element.click();
+        element.click();
     }
 
     public WebElement getSortByPopular() {
